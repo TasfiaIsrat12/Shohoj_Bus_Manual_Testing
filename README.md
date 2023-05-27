@@ -28,19 +28,22 @@ A short summary of the testing project is as stated below:
 
 ## Manual Testing of Shohoz Bus
 Sample Test Cases
-![test case](https://user-imag![Screenshot_1](https://github.com/TasfiaIsrat12/Shohoj_Bus_Manual_Testing/assets/133504097/51555921-5ead-45ea-963c-6e2424572dc5)
+![test case]![Screenshot_1](https://github.com/TasfiaIsrat12/Shohoj_Bus_Manual_Testing/assets/133504097/28c9058d-881b-4d5c-ab54-497bb97f1584)
 
-Test Summary Report![Screenshot_2](https://github.com/TasfiaIsrat12/Shohoj_Bus_Manual_Testing/assets/133504097/17317d39-5385-4eaf-ada8-d52db781f4bf)
 
-![test report]![Screenshot_3](https://github.com/TasfiaIsrat12/Shohoj_Bus_Manual_Testing/assets/133504097/677ad4f4-b6c5-4c9a-a1ab-fbf2c4129403)
+Test Summary Report!![Screenshot_2](https://github.com/TasfiaIsrat12/Shohoj_Bus_Manual_Testing/assets/133504097/20bdad04-c6d4-44a8-8576-4ac13a724587)
 
+
+![test report]!
+![Screenshot_3](https://github.com/TasfiaIsrat12/Shohoj_Bus_Manual_Testing/assets/133504097/3b181a1e-ae72-48e2-8f03-ffe35fdefdd4)
 
 Bug Report
-![bug report](https://user-images.githubusercontent.com/121681949/234536025-38d8b362-f9c1-41af-b287-9502cd6fcd92.JPG)
+![bug report]![Screenshot_4](https://github.com/TasfiaIsrat12/Shohoj_Bus_Manual_Testing/assets/133504097/cd529cc4-79f9-48f2-88fb-e1adc974c2fa)
 
-Mindmap
-![mindmap](https://user-images.githubusercontent.com/121681949/234536159-a451737b-3da6-44c8-99cf-e1a25cc407e8.JPG)
+
+Mindmap![Screenshot_5](https://github.com/TasfiaIsrat12/Shohoj_Bus_Manual_Testing/assets/133504097/8ceb1cf6-b967-4676-836c-7b002912f42f)
 
 Test Metrics 
 
-![test metrics](https://user-images.githubusercontent.com/121681949/234536894-a1a3c33d-3083-462d-a36b-106b4da8f16b.JPG)
+![test metrics]![Screenshot_6](https://github.com/TasfiaIsrat12/Shohoj_Bus_Manual_Testing/assets/133504097/0b2fc081-a645-4a8b-ba3a-8b8ba3a1aa92)
+
