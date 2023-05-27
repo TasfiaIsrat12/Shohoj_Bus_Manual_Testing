@@ -28,7 +28,7 @@ A short summary of the testing project is as stated below:
 
 ## Manual Testing of Shohoz Bus
 Sample Test Cases
-![test case](https://user-images.githubusercontent.com/121681949/234535798-1c87206e-cfba-430f-99cd-9b90e943c7ab.JPG)
+![test case](https://user-imag![Screenshot_1](https://github.com/TasfiaIsrat12/Shohoj_Bus_Manual_Testing/assets/133504097/51555921-5ead-45ea-963c-6e2424572dc5)
 
 Test Summary Report
 ![test report](https://user-images.githubusercontent.com/121681949/234536636-49dab4e8-823a-45a4-bdd5-a64a2dcaad1e.JPG)
